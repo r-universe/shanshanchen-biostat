@@ -7,4 +7,4 @@
 	url = https://github.com/cran/CircaCP
 [submodule "PiChange"]
 	path = PiChange
-	url = https://github.com/cran/PiChange
+	url = https://github.com/shanshanchen-biostat/pichange
